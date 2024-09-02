@@ -1,3 +1,5 @@
-//Votre code ici
+function add(x, y) {
+    return parseFloat(x) + parseFloat(y);
+}
 
- export default add;
+export default add;
